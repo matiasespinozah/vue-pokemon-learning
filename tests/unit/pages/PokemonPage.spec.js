@@ -57,8 +57,4 @@ describe('PokemonPage', () => {
     expect(picture.attributes('pokemonid')).toBe('1')
     expect(option.attributes('pokemons')).toBeTruthy()
   })
-  
-  
-  
-  
 })
